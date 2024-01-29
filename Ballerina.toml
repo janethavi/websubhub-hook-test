@@ -3,7 +3,7 @@
 
 [package]
   distribution = "2201.4.1"
-  name = "janeth"
-  org = "janeth"
+  name = "janethprod1"
+  org = "janethprod1"
   version = "0.1.0"
 
